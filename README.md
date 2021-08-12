@@ -14,19 +14,18 @@ Comenziile pentru incepatori (Tutorial).
 Intri in consola/terminal/sesiune SSH.
 Ce se poate folosi ca sa te conectezi la o consola? In primul rand, sa folosesti un client precum: Putty, Mobaxterm, fiecare conexiune SSH ruleaza pe portul 22.
 
-ls - iti afiseaza toate fiserele.
-cat /proc/cpuinfo - iti afiseaza configuratia pe care o are laptop-ul tau CPU,PROC,etc.
-mkdir - creezi un folder. Ex: mkdir test
-cd - intri in folder. Ex: cd test
-rm - stergi folder-ul/sau ce doresti. Ex: rm -rf test
-username
-df - iti afiseaza spatiul pe care il ai.
-last - afiseaza ultimul utilizator care s-a conectat.
-grep - Iti afiseaza informatia care te intereseaza, exemplu: cat /proc/cpuinfo |grep cpu
-pwd - iti afiseaza locatia in care esti. ex: /home/eduard/Desktop
-mv - cand vrei sa muti un fiser intr-o locatie. ex: mv test /usr/bin
-wget - cand vrei sa descarci un script. ex: wget blabla.com/script.sh & chmod 755 & ./script.sh
-dig - cand vrei sa aflii informatii despre DNS-ul unui site. Ex: dig google.ro
-ping - trimite requesturi ICMP ca sa vezi daca conexiunea functioneaza. Ex: ping 1.1.1.1
-passwd - atunci cand vrei sa-ti schimbi parola la utilizator(r00t).
-clear - sterge ecranul/sesiunea pe care ai avut-o.
+1. ls - iti afiseaza toate fiserele.
+2. cat /proc/cpuinfo - iti afiseaza configuratia pe care o are laptop-ul tau CPU,PROC,etc.
+3. mkdir - creezi un folder. Ex: mkdir test
+4. cd - intri in folder. Ex: cd test
+5. rm - stergi folder-ul/sau ce doresti. Ex: rm -rf test username
+6. df - iti afiseaza spatiul pe care il ai.
+7. last - afiseaza ultimul utilizator care s-a conectat.
+8. grep - Iti afiseaza informatia care te intereseaza, exemplu: cat /proc/cpuinfo |grep cpu
+9. pwd - iti afiseaza locatia in care esti. ex: /home/eduard/Desktop
+10. mv - cand vrei sa muti un fiser intr-o locatie. ex: mv test /usr/bin
+11. wget - cand vrei sa descarci un script. ex: wget blabla.com/script.sh & chmod 755 & ./script.sh
+12. dig - cand vrei sa aflii informatii despre DNS-ul unui site. Ex: dig google.ro
+13. ping - trimite requesturi ICMP ca sa vezi daca conexiunea functioneaza. Ex: ping 1.1.1.1
+14. passwd - atunci cand vrei sa-ti schimbi parola la utilizator(r00t).
+15. clear - sterge ecranul/sesiunea pe care ai avut-o.
